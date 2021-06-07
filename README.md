@@ -1,5 +1,5 @@
 # POTR POTS landing page
- [Responsive landing page](https://GrynenkoTimur.github.io/Potr_Pots/)
+ [Responsive landing page](https://GrynenkoTimur.github.io/PotrPots/)
 
 Technology stack:
   - HTML
